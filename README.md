@@ -32,4 +32,4 @@
 
 Переменная `timerEl` содержит ссылку на HTML-элемент <span>, в котором отображается текущее время.
 
-[Ссылка на GitHub Pages](https://daria2604.github.io/timer_test_task/)
+### [Ссылка на GitHub Pages](https://daria2604.github.io/timer_test_task/)
